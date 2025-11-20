@@ -24,14 +24,14 @@ jobs:
 
     - name: 3. Install Dependencies
       run: |
-        # Navega a la carpeta de tu proyecto E2E
+
         cd 01-web-e2e-saucedemo
-        # Instala Selenium y otros requisitos
+       
         pip install -r requirements.txt
 
     - name: 4. Run Web E2E Tests
       run: |
-        # Navega a la carpeta del proyecto
+        
         cd 01-web-e2e-saucedemo
-        # ESTE ES EL COMANDO CLAVE: ejecuta todos los tests encontrados en la carpeta 'tests'
+       
         python -m unittest discover tests
