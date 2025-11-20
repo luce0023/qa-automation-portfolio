@@ -1,20 +1,18 @@
 # .github/workflows/main.yml
 name: Automation CI Pipeline (E2E)
-
-# Define cuándo debe ejecutarse el flujo de trabajo (en push o pull request a 'main')
 on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
 
-# --- EL JOB (TRABAJO) ---
+
 jobs:
   run-automation-tests:
-    # Indica que este trabajo se ejecutará en un servidor Linux (Ubuntu)
+   
     runs-on: ubuntu-latest
 
-    # --- LOS STEPS (PASOS) ---
+   
     steps:
     - name: 1. Checkout Code
       uses: actions/checkout@v3
