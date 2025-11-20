@@ -24,7 +24,7 @@ This collection of demos showcases different types of testing and automation arc
 | No. | Project | Technologies | Main Focus | Quick Link |
 | :-- | :--- | :--- | :--- | :--- |
 | **01** | **Web E2E - Purchase Flow (POM)** | Python, Selenium, Page Object Model | Demonstrates modular architecture, maintainability, and code refactoring best practices. | [Go to Web E2E Demo](01-web-e2e-saucedemo/README.md) |
-| **02** | **REST API Testing Demo** | Python, Requests, Pytest, Postman | Demonstrates contract validation, token management, and backend regression testing. |https://github.com/luce0023/[Go to REST API Testing Demo](qa-automation-portfolio/tree/main/02-api-testing-demo)|
+| **02** | **REST API Testing Demo** | Python, Requests, Pytest, Postman | Demonstrates contract validation, token management, and backend regression testing. |[Go to REST API Testing Demo](qa-automation-portfolio/tree/main/02-api-testing-demo)|
 | **03** | **Load & Performance Testing Demo** | Python, Locust/JMeter | Demonstrates how to measure system performance under stress (non-functional testing).|[Go to Load & Performance Testing Demo](https://github.com/luce0023/qa-automation-portfolio/tree/main/03-performance-testing-demo)
 | **04** | **Continuous Integration (CI/CD)** | GitHub Actions | Demonstrates how to integrate quality into the development pipeline (DevOps). | [Go to Continuous Integration (CI/CD) ](https://github.com/luce0023/qa-automation-portfolio/tree/main/04-ci-cd-github-actions) |
 
