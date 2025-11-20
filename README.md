@@ -31,4 +31,4 @@ This collection of demos showcases different types of testing and automation arc
 ---
 
 ## 🤝 Contact
-Connect with me on [Your LinkedIn URL] to discuss process improvement opportunities in QA.
+Connect with me on [[Lucero Huaroto](https://www.linkedin.com/in/lucero-huaroto/)] to discuss process improvement opportunities in QA.
